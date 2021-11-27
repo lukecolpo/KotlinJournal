@@ -1,0 +1,2 @@
+# KotlinJournal
+Beginner Kotlin Project
